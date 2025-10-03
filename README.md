@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Technical manager at <a href="https://github.com/LibreGate">LibreGate
+<p><em>SEO at <a href="https://github.com/LibreGate">LibreGate
 
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
